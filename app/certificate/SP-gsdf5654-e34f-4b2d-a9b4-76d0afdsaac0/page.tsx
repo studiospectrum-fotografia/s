@@ -24,7 +24,7 @@ export default function Certifcate() {
               }
             >
               <Image
-                src="https://studiospectrum-fotografia.github.io/s/certificado_isadora_parreiras.png/"
+                src="https://studiospectrum-fotografia.github.io/s/certificado_isadora_parreiras.png"
                 alt="Certificado Isadora Parreiras"
                 width={800}
                 height={400}
@@ -54,7 +54,7 @@ export default function Certifcate() {
             Este certificado confirma que{" "}
             <em>Isadora Parreiras Gomes Soares </em>
             concluiu com êxito a oficina <em>FotoLab Criativo</em>, em 24 de
-            fevereiro de 2025. Certifica que todos os módulos do curso estão
+            janeiro de 2025. Certifica que todos os módulos do curso estão
             marcados como “Concluídos” e que a duração total do curso
             corresponde ao tempo integral da oficina.
           </p>
