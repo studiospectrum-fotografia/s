@@ -24,7 +24,7 @@ export default function Certifcate() {
               }
             >
               <Image
-                src="/certificado_isadora_parreiras.png"
+                src="https://studiospectrum-fotografia.github.io/s/certificado_isadora_parreiras.png/"
                 alt="Certificado Isadora Parreiras"
                 width={800}
                 height={400}
@@ -39,7 +39,7 @@ export default function Certifcate() {
               onClick={() => setModalImage("/conteudo.png")}
             >
               <Image
-                src="/conteudo.png"
+                src="https://studiospectrum-fotografia.github.io/s/conteudo.png"
                 alt="Agenda do Curso"
                 width={800}
                 height={400}
@@ -69,7 +69,7 @@ export default function Certifcate() {
         >
           <div className="relative" onClick={(e) => e.stopPropagation()}>
             <Image
-              src={modalImage}
+              src={`https://studiospectrum-fotografia.github.io/s/${modalImage}`}
               alt="Visualização Ampliada"
               width={1200}
               height={900}
